@@ -1,5 +1,6 @@
 #include "main.h"
-/*
+
+/**
  * more_numbers - prints 01234567891011121314\n x10
  *
  * Return: void
@@ -18,11 +19,10 @@ void more_numbers(void)
 			else
 			{
 				a =  c / 10; b = c % 10;
-				_putchat('0' + a);
+				_putchar('0' + a);
 			}
 			_putchar('0' + b);
 		}
 		_putchar('\n');
-			
 	}
 }
