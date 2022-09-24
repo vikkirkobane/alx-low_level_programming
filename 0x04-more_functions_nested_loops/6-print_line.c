@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * print_line - prints an underscore n times
  * @n: number of times printed
  *
