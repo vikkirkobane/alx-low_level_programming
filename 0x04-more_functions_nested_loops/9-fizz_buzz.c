@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "main.h"
-/*
+/**
  * main - entry point
  *
  * Description: prints the numbers 1 - 100 w/
